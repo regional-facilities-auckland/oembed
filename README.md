@@ -1,3 +1,13 @@
+## RFA Notes
+A fork was needed as the library doesn't appear to be support anymore.
+This will be particularly important as we upgrade from Laravel 5, as even more changes will be required to the library. 
+
+I couldn't find a suitable replacement and rewriting this and/or writing a separate content block (and potentially updating database references) seemed cumbersome.
+
+Works in conjunction with
+regional-facitiliies-auckland/embed
+
+
 Oembed
 ======
 
